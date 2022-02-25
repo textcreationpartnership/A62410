@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Kings Most Excellent Maiesty the humble desires of the commissioners of Your Maiesties kingdome of Scotland.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62410</idno>
+            <idno type="STC">Wing S990</idno>
+            <idno type="STC">ESTC R39519</idno>
+            <idno type="EEBO-CITATION">18425726</idno>
+            <idno type="OCLC">ocm 18425726</idno>
+            <idno type="VID">107601</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62410)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107601)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1643:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Kings Most Excellent Maiesty the humble desires of the commissioners of Your Maiesties kingdome of Scotland.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.S. for Jo. Ch.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Decimo Septimo Ianuarii, 1641."</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Society of Antiquaries Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  Charles I, 1625-1649.</term>
+               <term>Scotland --  Politics and government --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:107601:1"/>
+            <!-- PDF PAGE 17 -->
+            <head>TO THE KINGS MOST EXCELLENT MAIESTY.</head>
+            <head type="sub">The humble deſires of the Commiſsioners of your MAIESTIES Kingdome of <hi>Scotland.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Decimo ſeptimo Ianuarii,</hi> 1641.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE Your Majeſties humble and faithfull Subjects, Conſidering that the mutuall re<g ref="char:EOLhyphen"/>lation betwixt Your Majeſties Kingdomes of <hi>Scotland</hi> and <hi>England,</hi> is ſuch as they muſt ſtand or fall together, and the diſturbance of the one muſt needs diſquiet and diſtemper the peace of the other, as hath been often acknowledged by them both, and eſpecially in the late Treaty, which is ratified in Parliament, and confirmed by the publique ſuch of the Eſtates of Your Majeſties ancient and native Kingdome of <hi>Scotland.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to maintain the peace and liberties of one another, being highly concer<g ref="char:EOLhyphen"/>ned therein, as the aſſured meanes of the ſafety and preſervation of their awne. And finding our ſelves warranted and obliged by all means to labour to keep a right underſtanding betwixt your Majeſty and your people, to confirme that brotherly affection begun betwixt the two Nations, to advance their unitie by all ſuch wayes, as may tend to the glory of God, and peace of the Church and State of both Kingdomes. And likewiſe to proffer our ſervice for the removing all <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and miſtakings which may ariſe betwixt your Majeſty and this Kingdome, and our beſt endeavours for the better eſtabliſhment of the affaires and quiet of the ſame, That both your Majeſties Kingdomes of <hi>Scotland,</hi> and <hi>England,</hi> may be united in the enjoying of their li<g ref="char:EOLhyphen"/>berties in peace under your Majeſties Scepter, which is the moſt aſſured foundation of your Majeſties honour and greatneſſe, and of the ſecuritie of your Royall Perſon, Crowne, and Dig<g ref="char:EOLhyphen"/>nitie. Wee have taken the boldneſſe to ſhew to your Majeſty, that wee are heartily ſorry, and grieved to behold theſe diſtractions, which increaſe daily betwixt your Majeſty and your peo<g ref="char:EOLhyphen"/>ple, and which, wee conceive, are entertained by the wicked plotts and practiſes of PAPISTS, PRELATES, and their adherents; whoſe ayme in all theſe troubles has been not onely to pre<g ref="char:EOLhyphen"/>vent all further reformation but alſo to ſubvert the purity and truth of Religion within all your Majeſties Kingdomes; for which end their conſtant endeavours have been to ſtirre up diviſi<g ref="char:EOLhyphen"/>ons betwixt your Majeſty and your people, by their queſtioning the authoritie of Parliaments, and the lawfull liberties of the Subjects, and really weakning your Majeſties power and autho<g ref="char:EOLhyphen"/>ritie royall, upon pretence of extending the ſame. Whereof by Gods providence being diſap<g ref="char:EOLhyphen"/>pointed in your Majeſties Kingdome of <hi>Scotland;</hi> They have now converted their miſchievous counſells, conſpiracies, and attempts, to produce theſe diſtempers in your Majeſties Kingdomes of <hi>England</hi> and <hi>Ireland.</hi> And therefore according to our duty to your Majeſty, to teſtifie our brotherly affection to this Kingdome, and acquit our ſelves of the truſt impoſed upon us; Wee doe make offer of our humble endeavours for Compoſing of theſe differences, And to that pur<g ref="char:EOLhyphen"/>poſe doe beſeech your Majeſtie in theſe extremities, to have recourſe to the ſound and faithfull advice of the Honourable Houſes of Parliament, and to repoſe thereupon as the onely aſſured and happy meanes, to eſtabliſh the proſperitie and quiet of this Kingdome, and in the depth of your Royall Wiſdome, to conſider, and prevent theſe apprehenſions of feare, which may poſ<g ref="char:EOLhyphen"/>ſeſſe the hearts of your Majeſties Subjects in your other Kingdomes, if they ſhall conceive the authoritie of Parliaments, and the Rights and Liberties of the Subject to be here called in que<g ref="char:EOLhyphen"/>ſtion. And wee are confident, if your Majeſty ſhall be graciouſly pleaſed to take in good part, and give care to theſe our faithfull and humble deſires, that the ſucceſſe of your Majeſties af<g ref="char:EOLhyphen"/>faires, (howſoever now perplexed) ſhall be happy to your Majeſty, and joyfull to all your peo<g ref="char:EOLhyphen"/>ple. Over whom, that your Majeſty may long and proſperouſly raigne, is the conſtant and fer<g ref="char:EOLhyphen"/>vent prayer of us your Majeſties faithfull Subjects and ſervants.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>M. S.</hi> for <hi>Jo. Ch.</hi> 1641.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
